@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-codeclimate-default-checks",
+  "version": "0.1.0",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "eslint-config",
+    "code style"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "eslint-plugin-complex-logic": "^0.3.0",
+    "eslint-plugin-max-methods-per-class": "^1.0.2",
+    "eslint-plugin-max-return-statements-per-function": "^0.2.0",
+    "eslint-plugin-sonarjs": "^0.14.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-plugin-complex-logic": "^0.3.0",
+    "eslint-plugin-max-methods-per-class": "^1.0.2",
+    "eslint-plugin-max-return-statements-per-function": "^0.2.0",
+    "eslint-plugin-sonarjs": "^0.14.0"
+  }
+}

@@ -1,6 +1,6 @@
 # eslint-config-codeclimate-default-checks
 
-This package was created to reproduce [the default check items](<(https://docs.codeclimate.com/docs/maintainability#checks)>) of CodeClimate in ESLint.
+This package was created to reproduce [the default check items](https://docs.codeclimate.com/docs/maintainability#checks) of CodeClimate in ESLint.
 
 ## CodeClimate default checks and alternatives
 
